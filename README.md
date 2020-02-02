@@ -11,7 +11,7 @@ mkdir config && cd config
 touch default.json
 ```
 
- - Inside your default.json file you should have following fields 
+ Inside your default.json file you should have following fields 
  
  ```json 
  {
@@ -21,3 +21,5 @@ touch default.json
   "githubClientSecret": "github secret"
 }
  ```
+
+run ```yarn server ```
