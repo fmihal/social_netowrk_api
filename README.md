@@ -1,4 +1,4 @@
-# social_netowrk_api
+# social_network_api
 Full social network API built with Node.js
 
 
